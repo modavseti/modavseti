@@ -1,2 +1,2 @@
-# The public photo hosting of ModaVseti
+# The public photo hosting by ModaVseti
 
