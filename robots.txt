@@ -1,2 +1,14 @@
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Disallow: /
+Disallow: /01-modavseti-notindex
+Disallow: /*index.xml
+Disallow: /pages/*index.html
+Disallow: /posts/*index.html
+Disallow: *notice
 
 Host: https://modavseti.ru
+
+Sitemap: https://modavseti.ru/sitemap.xml
