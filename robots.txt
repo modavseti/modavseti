@@ -2,7 +2,7 @@
 # http://www.robotstxt.org/robotstxt.html
 
 User-agent: *
-Disallow: /
+Disallow:
 Disallow: /01-modavseti-notindex
 Disallow: /*index.xml
 Disallow: /pages/*index.html
